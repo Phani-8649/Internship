@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+
+}
+/* navigation bar */
+.navbar{
+    padding-bottom:0 0 4.5rem;
+
+}
+.navbar-brand{
+    font-family:"ubuntu";
+    font-size:2.5rem;
+    font-weight:bold;
+    padding-right:50rem; 
+
+}
+.navlink{
+    font-size:1.2rem;
+    font-family:"Montserrat-Light";
+}
+
+.box2
+{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    background-color:orange;
+    
+}
